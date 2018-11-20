@@ -1,0 +1,5 @@
+D:\practice\zadacha9\zadacha9\bin\Debug\zadacha9.exe.config
+D:\practice\zadacha9\zadacha9\bin\Debug\zadacha9.exe
+D:\practice\zadacha9\zadacha9\bin\Debug\zadacha9.pdb
+D:\practice\zadacha9\zadacha9\obj\Debug\zadacha9.exe
+D:\practice\zadacha9\zadacha9\obj\Debug\zadacha9.pdb
